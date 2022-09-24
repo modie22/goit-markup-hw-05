@@ -167,9 +167,6 @@ ul {
   text-align: center;
   margin: 0 auto;
 }
-.container.heroy{
-  background: none;
-}
 .hero-title {
   color: var(--minor-color);
   font-weight: 900;
