@@ -156,17 +156,18 @@ ul {
 }
 
 /*hero section*/
-/*Колір поставив шоб текст краще видно було*/
-.hero {
+.hero.section {
   max-width: 1600px;
-  padding: 200px 0;
-  margin: 0 auto;
+  height: 600px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   background-color: var(--secondary-bg);
   background-image: linear-gradient(var(--gradient-overlay),var(--gradient-overlay)), url(../images/heroimg.jpg);
   background-repeat: no-repeat;
   text-align: center;
+  margin: 0 auto;
 }
-.container.hero{
+.container.heroy{
   background: none;
 }
 .hero-title {
